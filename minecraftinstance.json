@@ -1338,12 +1338,12 @@
     {
       "folderName": "New World",
       "fingerprint": 0,
-      "fileDateHash": 958882813,
+      "fileDateHash": 593885112,
       "sectionID": 10,
       "individualFingerprints": null,
       "status": 4,
-      "timestamp": "2020-09-12T13:17:51.3170614Z",
-      "lastWriteTimeUtc": "2020-09-12T13:17:50.7060051Z",
+      "timestamp": "2020-09-12T13:35:44.2777138Z",
+      "lastWriteTimeUtc": "2020-09-12T13:35:43.7043311Z",
       "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 33,
       "fileSize": 0
@@ -3105,7 +3105,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-09-12T13:17:59.7156965Z",
+  "lastPreviousMatchUpdate": "2020-09-12T13:48:21.1377724Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -7040,6 +7040,73 @@
       "installedTargets": null
     },
     {
+      "addonID": 228516,
+      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
+      "installedFile": {
+        "id": 2786633,
+        "displayName": "OreRegen MC1.12.2 v1.0.1",
+        "fileName": "OreRegen-MC 1.12.2 v1.0.1.jar",
+        "fileDate": "2019-09-15T13:16:14.87Z",
+        "fileLength": 57519,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2786/633/OreRegen-MC 1.12.2 v1.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 471910558,
+            "type": 0
+          },
+          {
+            "foldername": "mcp",
+            "fingerprint": 1548791195,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 60575487,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 198839043,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2764434090,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OreRegen-MC 1.12.2 v1.0.1.jar"
+      },
+      "dateInstalled": "2020-09-12T13:36:53.6107592Z",
+      "dateUpdated": "2020-09-12T13:36:53.6117591Z",
+      "dateLastUpdateAttempted": "2020-09-12T13:36:53.6117591Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 64760,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
       "installedFile": {
@@ -10436,14 +10503,14 @@
       "addonID": 375129,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
       "installedFile": {
-        "id": 3054027,
-        "displayName": "Helicopter_Pack-2.0.0.jar",
-        "fileName": "Helicopter_Pack-2.0.0.jar",
-        "fileDate": "2020-09-10T21:33:02.83Z",
-        "fileLength": 3127823,
+        "id": 3054739,
+        "displayName": "Helicopter_Pack-2.0.1.jar",
+        "fileName": "Helicopter_Pack-2.0.1.jar",
+        "fileDate": "2020-09-11T18:14:53.703Z",
+        "fileLength": 3128139,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3054/27/Helicopter_Pack-2.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3054/739/Helicopter_Pack-2.0.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -10458,22 +10525,22 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2134169783,
+            "fingerprint": 257094531,
             "type": 0
           },
           {
             "foldername": "helicopterpack",
-            "fingerprint": 2443061828,
+            "fingerprint": 1982699699,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3571843268,
+            "fingerprint": 107507542,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 873657289,
+            "fingerprint": 1354231027,
             "type": 0
           },
           {
@@ -10487,7 +10554,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2299162342,
+        "packageFingerprint": 2040978279,
         "gameVersion": [
           "1.12.2"
         ],
@@ -10500,12 +10567,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Helicopter_Pack-2.0.0.jar"
+        "FileNameOnDisk": "Helicopter_Pack-2.0.1.jar"
       },
       "dateInstalled": "2020-08-15T13:52:28.1995302Z",
-      "dateUpdated": "2020-09-11T21:38:05.5849226Z",
-      "dateLastUpdateAttempted": "2020-09-11T21:38:05.5849226Z",
-      "status": 3,
+      "dateUpdated": "2020-09-12T16:57:05.397934Z",
+      "dateLastUpdateAttempted": "2020-09-12T16:57:05.397934Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18167,56 +18234,7 @@
     {
       "addonID": 250603,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
-      "installedFile": {
-        "id": 2635454,
-        "displayName": "World-Stripper-1.6.0-1.12.2.jar",
-        "fileName": "World-Stripper-1.6.0-1.12.2.jar",
-        "fileDate": "2018-11-05T14:11:11.303Z",
-        "fileLength": 50296,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2635/454/World-Stripper-1.6.0-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4200024715,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3826521071,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2131396685,
-            "type": 0
-          },
-          {
-            "foldername": "offending_image.png",
-            "fingerprint": 2351219585,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2474798541,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "World-Stripper-1.6.0-1.12.2.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2020-09-12T13:11:26.7205144Z",
       "dateUpdated": "2020-09-12T13:11:26.7225157Z",
       "dateLastUpdateAttempted": "2020-09-12T13:11:26.7225157Z",
