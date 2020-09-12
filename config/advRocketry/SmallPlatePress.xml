@@ -178,6 +178,14 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
+			<oreDict>blockAncite</oreDict>
+		</input>
+		<output>
+			<itemStack>jaopca:item_plateancite;4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="0" power ="0">
+		<input>
 			<oreDict>blockBoron</oreDict>
 		</input>
 		<output>
@@ -210,10 +218,10 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
-			<oreDict>blockYellorium</oreDict>
+			<oreDict>blockSteaite</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_plateyellorium;4</itemStack>
+			<itemStack>jaopca:item_platesteaite;4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -226,10 +234,26 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
+			<oreDict>oreAncite</oreDict>
+		</input>
+		<output>
+			<itemStack>steamworld:dust;2;3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="0" power ="0">
+		<input>
 			<oreDict>oreBoron</oreDict>
 		</input>
 		<output>
 			<itemStack>nuclearcraft:dust;2;5</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="0" power ="0">
+		<input>
+			<oreDict>oreGalite</oreDict>
+		</input>
+		<output>
+			<itemStack>steamworld:dust;2;4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -253,7 +277,7 @@
 			<oreDict>oreMagnesium</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:dust;2;30</itemStack>
+			<itemStack>nuclearcraft:dust;2;7</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -298,10 +322,18 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
+			<oreDict>oreSteaite</oreDict>
+		</input>
+		<output>
+			<itemStack>steamworld:dust;2;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="0" power ="0">
+		<input>
 			<oreDict>oreThorium</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:dust;2;65</itemStack>
+			<itemStack>immersive_energy:metal;2;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -309,7 +341,7 @@
 			<oreDict>oreTungsten</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:dust;2;55</itemStack>
+			<itemStack>immersive_energy:metal;2;3</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -317,15 +349,7 @@
 			<oreDict>oreUranium</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:dust;2;66</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
-			<oreDict>oreYellorium</oreDict>
-		</input>
-		<output>
-			<itemStack>bigreactors:dustyellorium;2</itemStack>
+			<itemStack>immersiveengineering:metal;2;14</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -333,7 +357,7 @@
 			<oreDict>oreZinc</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:dust;2;59</itemStack>
+			<itemStack>immersiveintelligence:material_dust;2;4</itemStack>
 		</output>
 	</Recipe>
 </Recipes>

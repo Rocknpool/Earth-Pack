@@ -34,98 +34,10 @@
 <Recipes useDefault="true">
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotYellorium</oreDict>
+			<oreDict>ingotAncite</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_stickyellorium;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotBoron</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickboron;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotTitanium</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod;2;7</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotMagnesium</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickmagnesium;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotCopper</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod;2;4</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotGold</oreDict>
-		</input>
-		<output>
-			<itemStack>immersiveposts:metal_rods;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotAluminium</oreDict>
-		</input>
-		<output>
-			<itemStack>immersiveengineering:material;2;3</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotSilver</oreDict>
-		</input>
-		<output>
-			<itemStack>immersiveposts:metal_rods;2;3</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotAncientDebris</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickancientdebris;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotLapis</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_sticklapis;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotIridium</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod;2;10</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotThorium</oreDict>
-		</input>
-		<output>
-			<itemStack>immersive_energy:stick_thorium;2</itemStack>
+			<itemStack>jaopca:item_stickancite;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -138,10 +50,26 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotSteaite</oreDict>
+		</input>
+		<output>
+			<itemStack>jaopca:item_sticksteaite;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotIron</oreDict>
 		</input>
 		<output>
 			<itemStack>libvulpes:productrod;2;1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotBoron</oreDict>
+		</input>
+		<output>
+			<itemStack>jaopca:item_stickboron;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -170,10 +98,50 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotTitanium</oreDict>
+		</input>
+		<output>
+			<itemStack>libvulpes:productrod;2;7</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotLead</oreDict>
 		</input>
 		<output>
 			<itemStack>immersiveposts:metal_rods;2;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotGalite</oreDict>
+		</input>
+		<output>
+			<itemStack>jaopca:item_stickgalite;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotMagnesium</oreDict>
+		</input>
+		<output>
+			<itemStack>jaopca:item_stickmagnesium;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotCopper</oreDict>
+		</input>
+		<output>
+			<itemStack>libvulpes:productrod;2;4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotGold</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveposts:metal_rods;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -194,18 +162,18 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotSteel</oreDict>
+			<oreDict>ingotAluminium</oreDict>
 		</input>
 		<output>
-			<itemStack>libvulpes:productrod;2;6</itemStack>
+			<itemStack>immersiveengineering:material;2;3</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotQuartz</oreDict>
+			<oreDict>ingotSteel</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_stickquartz;2</itemStack>
+			<itemStack>libvulpes:productrod;2;6</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -234,6 +202,22 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotSilver</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveposts:metal_rods;2;3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotAncientDebris</oreDict>
+		</input>
+		<output>
+			<itemStack>jaopca:item_stickancientdebris;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotTin</oreDict>
 		</input>
 		<output>
@@ -250,6 +234,14 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotIridium</oreDict>
+		</input>
+		<output>
+			<itemStack>libvulpes:productrod;2;10</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotTitaniumIridium</oreDict>
 		</input>
 		<output>
@@ -262,6 +254,14 @@
 		</input>
 		<output>
 			<itemStack>immersiveposts:metal_rods;2;5</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotThorium</oreDict>
+		</input>
+		<output>
+			<itemStack>immersive_energy:stick_thorium;2</itemStack>
 		</output>
 	</Recipe>
 </Recipes>
