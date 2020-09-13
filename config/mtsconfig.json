@@ -99,24 +99,20 @@
     "fuels": {
       "diesel": {
         "diesel": 1.0,
-        "lava": 1.0,
-        "oil": 0.5,
         "biodiesel": 0.8
       },
       "electric": {
         "lava": 1.0
       },
       "avgas": {
-        "lava": 1.0,
         "gasoline": 1.0
       },
       "gasoline": {
-        "lava": 1.0,
         "gasoline": 1.0,
         "ethanol": 0.85
       },
       "biodiesel": {
-        "lava": 1.0
+        "biodiesel": 1.0
       }
     }
   },
