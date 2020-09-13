@@ -541,6 +541,21 @@
       "fileSize": 8201582
     },
     {
+      "folderName": "OreRegen-MC 1.12.2 v1.0.1.jar",
+      "fingerprint": 2764434090,
+      "fileDateHash": 3192537302,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2764434090
+      ],
+      "status": 1,
+      "timestamp": "2020-09-12T13:48:16.6847222Z",
+      "lastWriteTimeUtc": "2020-09-12T13:36:53.6027576Z",
+      "queryTimestamp": "2020-09-12T13:48:17.6718035Z",
+      "fileCount": 1,
+      "fileSize": 57519
+    },
+    {
       "folderName": "reauth-3.6.0.jar",
       "fingerprint": 1809264525,
       "fileDateHash": 2849043292,
@@ -1338,12 +1353,12 @@
     {
       "folderName": "New World",
       "fingerprint": 0,
-      "fileDateHash": 593885112,
+      "fileDateHash": 3286089183,
       "sectionID": 10,
       "individualFingerprints": null,
       "status": 4,
-      "timestamp": "2020-09-12T13:35:44.2777138Z",
-      "lastWriteTimeUtc": "2020-09-12T13:35:43.7043311Z",
+      "timestamp": "2020-09-12T13:48:16.6857223Z",
+      "lastWriteTimeUtc": "2020-09-12T13:48:15.9781966Z",
       "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 33,
       "fileSize": 0
@@ -2262,21 +2277,6 @@
       "queryTimestamp": "2020-09-12T13:17:52.5131495Z",
       "fileCount": 1,
       "fileSize": 2459965
-    },
-    {
-      "folderName": "World-Stripper-1.6.0-1.12.2.jar",
-      "fingerprint": 2474798541,
-      "fileDateHash": 2600542948,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2474798541
-      ],
-      "status": 1,
-      "timestamp": "2020-09-12T13:17:51.3100617Z",
-      "lastWriteTimeUtc": "2020-09-12T13:11:26.7135149Z",
-      "queryTimestamp": "2020-09-12T13:17:52.5131495Z",
-      "fileCount": 1,
-      "fileSize": 50296
     },
     {
       "folderName": "MekanismTools-1.12.2-9.8.3.390.jar",
@@ -6685,6 +6685,107 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 253565,
+      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
+      "installedFile": {
+        "id": 2691537,
+        "displayName": "etlunar-1.12.2-2.0.20.1.jar",
+        "fileName": "etlunar-1.12.2-2.0.20.1.jar",
+        "fileDate": "2019-03-25T06:55:01.757Z",
+        "fileLength": 63844,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2691/537/etlunar-1.12.2-2.0.20.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 245453,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 289532,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245480,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 497452074,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2550117664,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 500144758,
+            "type": 0
+          },
+          {
+            "foldername": "logo_mcmod.png",
+            "fingerprint": 556931348,
+            "type": 0
+          },
+          {
+            "foldername": "logo_mcmod300.png",
+            "fingerprint": 2886572216,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2335611489,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2894109538,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2099480717,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "etlunar-1.12.2-2.0.20.1.jar"
+      },
+      "dateInstalled": "2020-09-13T10:26:45.5422455Z",
+      "dateUpdated": "2020-09-13T10:26:45.5442454Z",
+      "dateLastUpdateAttempted": "2020-09-13T10:26:45.5442454Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 283644,
@@ -13888,6 +13989,96 @@
       "installedTargets": null
     },
     {
+      "addonID": 245453,
+      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
+      "installedFile": {
+        "id": 2691536,
+        "displayName": "environmentaltech-1.12.2-2.0.20.1.jar",
+        "fileName": "environmentaltech-1.12.2-2.0.20.1.jar",
+        "fileDate": "2019-03-25T06:54:18.24Z",
+        "fileLength": 1001848,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2691/536/environmentaltech-1.12.2-2.0.20.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 245480,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 289532,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3475619766,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1127179845,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1680517355,
+            "type": 0
+          },
+          {
+            "foldername": "logo_mcmod.png",
+            "fingerprint": 498910096,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1703971663,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3473727868,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1520876991,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "environmentaltech-1.12.2-2.0.20.1.jar"
+      },
+      "dateInstalled": "2020-09-13T10:26:43.9259194Z",
+      "dateUpdated": "2020-09-13T10:26:43.9379279Z",
+      "dateLastUpdateAttempted": "2020-09-13T10:26:43.9379279Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 236541,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
       "installedFile": {
@@ -18230,24 +18421,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 250603,
-      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
-      "installedFile": null,
-      "dateInstalled": "2020-09-12T13:11:26.7205144Z",
-      "dateUpdated": "2020-09-12T13:11:26.7225157Z",
-      "dateLastUpdateAttempted": "2020-09-12T13:11:26.7225157Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 79616,
