@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-09-13T10:40:05.2279246Z",
+  "lastPlayed": "2020-09-13T10:50:21.1134347Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -18483,6 +18483,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 250603,
+      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
+      "installedFile": {
+        "id": 2635454,
+        "displayName": "World-Stripper-1.6.0-1.12.2.jar",
+        "fileName": "World-Stripper-1.6.0-1.12.2.jar",
+        "fileDate": "2018-11-05T14:11:11.303Z",
+        "fileLength": 50296,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2635/454/World-Stripper-1.6.0-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4200024715,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3826521071,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2131396685,
+            "type": 0
+          },
+          {
+            "foldername": "offending_image.png",
+            "fingerprint": 2351219585,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2474798541,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "World-Stripper-1.6.0-1.12.2.jar"
+      },
+      "dateInstalled": "2020-09-13T10:50:05.2893404Z",
+      "dateUpdated": "2020-09-13T10:50:05.2903406Z",
+      "dateLastUpdateAttempted": "2020-09-13T10:50:05.2903406Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 79616,
