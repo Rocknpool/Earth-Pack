@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-09-12T13:18:25.0392479Z",
+  "lastPlayed": "2020-09-13T10:33:27.4574587Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -12468,6 +12468,90 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 278825,
+      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
+      "installedFile": {
+        "id": 2691535,
+        "displayName": "environmentalmaterials-1.12.2-1.0.20.1.jar",
+        "fileName": "environmentalmaterials-1.12.2-1.0.20.1.jar",
+        "fileDate": "2019-03-25T06:53:02.96Z",
+        "fileLength": 486907,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2691/535/environmentalmaterials-1.12.2-1.0.20.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 245480,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3347661580,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2995127759,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3763669712,
+            "type": 0
+          },
+          {
+            "foldername": "logo_mcmod.png",
+            "fingerprint": 1399259035,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4100520805,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1826169645,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 546548473,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "environmentalmaterials-1.12.2-1.0.20.1.jar"
+      },
+      "dateInstalled": "2020-09-13T10:26:48.3147135Z",
+      "dateUpdated": "2020-09-13T10:26:48.316715Z",
+      "dateLastUpdateAttempted": "2020-09-13T10:26:48.316715Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 231484,
