@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-09-13T10:50:21.1134347Z",
+  "lastPlayed": "2020-09-13T22:35:52.9005645Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -89,21 +89,6 @@
       "queryTimestamp": "2020-09-12T13:17:52.4671465Z",
       "fileCount": 1,
       "fileSize": 934370
-    },
-    {
-      "folderName": "SteamWorld 1.12.2-0.4.0.2.jar",
-      "fingerprint": 3789175205,
-      "fileDateHash": 3153392137,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3789175205
-      ],
-      "status": 1,
-      "timestamp": "2020-09-11T11:55:29.8592091Z",
-      "lastWriteTimeUtc": "2020-09-11T11:50:15.0890895Z",
-      "queryTimestamp": "2020-09-12T13:17:52.4671465Z",
-      "fileCount": 1,
-      "fileSize": 1292377
     },
     {
       "folderName": "Immersive-IO-1.12.2-0.9.5.jar",
@@ -8786,83 +8771,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 282607,
-      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
-      "installedFile": {
-        "id": 2641200,
-        "displayName": "SteamWorld 1.12.2-0.4.0.2.jar",
-        "fileName": "SteamWorld 1.12.2-0.4.0.2.jar",
-        "fileDate": "2018-11-25T12:52:43.667Z",
-        "fileLength": 1292377,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2641/200/SteamWorld 1.12.2-0.4.0.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2664860178,
-            "type": 0
-          },
-          {
-            "foldername": "zaexides",
-            "fingerprint": 4048543426,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 893823883,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 120602484,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1866898193,
-            "type": 0
-          },
-          {
-            "foldername": "SteamWorldLogo_Col_256.png",
-            "fingerprint": 2465517848,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3789175205,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "SteamWorld 1.12.2-0.4.0.2.jar"
-      },
-      "dateInstalled": "2020-09-11T11:50:15.0970917Z",
-      "dateUpdated": "2020-09-11T11:50:15.10109Z",
-      "dateLastUpdateAttempted": "2020-09-11T11:50:15.10109Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 318255,
