@@ -1156,6 +1156,21 @@
       "fileSize": 4912890
     },
     {
+      "folderName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.12.1.jar",
+      "fingerprint": 2907434467,
+      "fileDateHash": 2781287314,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2907434467
+      ],
+      "status": 1,
+      "timestamp": "2020-09-13T11:12:15.4514254Z",
+      "lastWriteTimeUtc": "2020-09-13T10:39:41.6717756Z",
+      "queryTimestamp": "2020-09-13T11:12:16.7295213Z",
+      "fileCount": 1,
+      "fileSize": 3074996
+    },
+    {
       "folderName": "mcw-doors-1.0.0-mc1.12.2.jar",
       "fingerprint": 3057158868,
       "fileDateHash": 62867777,
@@ -1364,6 +1379,19 @@
       "queryTimestamp": "2020-09-12T13:17:52.4941498Z",
       "fileCount": 1,
       "fileSize": 265118
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 0,
+      "fileDateHash": 1840108142,
+      "sectionID": 10,
+      "individualFingerprints": null,
+      "status": 4,
+      "timestamp": "2020-09-13T11:12:16.0514698Z",
+      "lastWriteTimeUtc": "2020-09-13T11:12:14.9111725Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 33,
+      "fileSize": 0
     },
     {
       "folderName": "ReWIRED-1.0.9b.jar",
@@ -3122,7 +3150,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-09-13T10:38:50.7433395Z",
+  "lastPreviousMatchUpdate": "2020-09-13T11:12:19.1632381Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -6554,14 +6582,14 @@
       "addonID": 289760,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
       "installedFile": {
-        "id": 3048926,
-        "displayName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.12.1.jar",
-        "fileName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.12.1.jar",
-        "fileDate": "2020-09-03T16:09:43.483Z",
-        "fileLength": 3074996,
+        "id": 3055941,
+        "displayName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.13.0.jar",
+        "fileName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.13.0.jar",
+        "fileDate": "2020-09-13T03:15:23.14Z",
+        "fileLength": 3112038,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3048/926/Treasure2-mc1.12.2-f14.23.5.2768-v1.12.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3055/941/Treasure2-mc1.12.2-f14.23.5.2768-v1.13.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -6576,17 +6604,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4176684407,
+            "fingerprint": 1497184501,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 2048901159,
+            "fingerprint": 623903307,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 55059563,
+            "fingerprint": 2953504216,
             "type": 0
           },
           {
@@ -6596,12 +6624,12 @@
           },
           {
             "foldername": "loot_tables",
-            "fingerprint": 719001832,
+            "fingerprint": 3572243713,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2106963615,
+            "fingerprint": 543041694,
             "type": 0
           },
           {
@@ -6630,7 +6658,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2907434467,
+        "packageFingerprint": 1859544659,
         "gameVersion": [
           "1.12.2"
         ],
@@ -6643,11 +6671,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Treasure2-mc1.12.2-f14.23.5.2768-v1.12.1.jar"
+        "FileNameOnDisk": "Treasure2-mc1.12.2-f14.23.5.2768-v1.13.0.jar"
       },
       "dateInstalled": "2020-09-13T10:39:41.6777761Z",
-      "dateUpdated": "2020-09-13T10:39:41.6817774Z",
-      "dateLastUpdateAttempted": "2020-09-13T10:39:41.6817774Z",
+      "dateUpdated": "2020-09-13T13:36:09.02868Z",
+      "dateLastUpdateAttempted": "2020-09-13T13:36:09.02868Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -11406,6 +11434,114 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 7522,
+      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
+      "installedFile": {
+        "id": 324332,
+        "displayName": "r20090116145011",
+        "fileName": "PitBull4-r20090116145011.zip",
+        "fileDate": "2009-01-16T14:51:03Z",
+        "fileLength": 433557,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/324/332/PitBull4-r20090116145011.zip",
+        "isAlternate": false,
+        "alternateFileId": 324331,
+        "dependencies": [
+          {
+            "id": 3736527,
+            "addonId": 13380,
+            "type": 1,
+            "fileId": 324332
+          },
+          {
+            "id": 3736529,
+            "addonId": 14282,
+            "type": 1,
+            "fileId": 324332
+          },
+          {
+            "id": 3736532,
+            "addonId": 15049,
+            "type": 1,
+            "fileId": 324332
+          },
+          {
+            "id": 3736531,
+            "addonId": 14328,
+            "type": 1,
+            "fileId": 324332
+          },
+          {
+            "id": 3736526,
+            "addonId": 13376,
+            "type": 1,
+            "fileId": 324332
+          },
+          {
+            "id": 3736530,
+            "addonId": 14320,
+            "type": 1,
+            "fileId": 324332
+          },
+          {
+            "id": 3736528,
+            "addonId": 14280,
+            "type": 1,
+            "fileId": 324332
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "PitBull4",
+            "fingerprint": 2907434467,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 1797266312,
+        "gameVersion": [
+          "3.0.3"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000003.0000000000.0000000003",
+            "gameVersion": "3.0.3",
+            "gameVersionReleaseDate": "2008-11-04T00:00:00Z",
+            "gameVersionName": "3.0.3"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 637318,
+        "projectId": 7522,
+        "packageFingerprintId": 113515517,
+        "gameVersionDateReleased": "2008-11-04T00:00:00Z",
+        "gameVersionMappingId": 701213,
+        "gameVersionId": 44,
+        "gameId": 1,
+        "isServerPack": false,
+        "gameVersionFlavor": "wow_retail",
+        "FileNameOnDisk": "PitBull4-r20090116145011.zip"
+      },
+      "dateInstalled": "2020-09-13T11:12:21.8455554Z",
+      "dateUpdated": "2019-09-13T11:12:21.8455554Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 74924,
@@ -18483,73 +18619,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 250603,
-      "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
-      "installedFile": {
-        "id": 2635454,
-        "displayName": "World-Stripper-1.6.0-1.12.2.jar",
-        "fileName": "World-Stripper-1.6.0-1.12.2.jar",
-        "fileDate": "2018-11-05T14:11:11.303Z",
-        "fileLength": 50296,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2635/454/World-Stripper-1.6.0-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4200024715,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3826521071,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2131396685,
-            "type": 0
-          },
-          {
-            "foldername": "offending_image.png",
-            "fingerprint": 2351219585,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2474798541,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "World-Stripper-1.6.0-1.12.2.jar"
-      },
-      "dateInstalled": "2020-09-13T10:50:05.2893404Z",
-      "dateUpdated": "2020-09-13T10:50:05.2903406Z",
-      "dateLastUpdateAttempted": "2020-09-13T10:50:05.2903406Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 79616,
