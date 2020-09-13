@@ -3105,7 +3105,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-09-12T13:48:21.1377724Z",
+  "lastPreviousMatchUpdate": "2020-09-13T10:38:50.7433395Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -6993,64 +6993,7 @@
     {
       "addonID": 354949,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
-      "installedFile": {
-        "id": 3029959,
-        "displayName": "Trinity 1.2.0",
-        "fileName": "Trinity 1.2.0.jar",
-        "fileDate": "2020-08-12T01:05:51.467Z",
-        "fileLength": 1900643,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3029/959/Trinity 1.2.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 336895,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "trinity",
-            "fingerprint": 3027497556,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3840602037,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3522876993,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2350628830,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1513883780,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Trinity 1.2.0.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2020-08-15T10:06:02.312531Z",
       "dateUpdated": "2020-08-15T10:06:02.3155305Z",
       "dateLastUpdateAttempted": "2020-08-15T10:06:02.3155305Z",
@@ -17565,7 +17508,7 @@
       "dateInstalled": "2020-09-11T22:45:34.5197151Z",
       "dateUpdated": "2020-09-11T22:45:34.6717267Z",
       "dateLastUpdateAttempted": "2020-09-11T22:45:34.6717267Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17579,62 +17522,7 @@
     {
       "addonID": 244451,
       "gameInstanceID": "e67dade7-bc93-4416-8f1d-ca7de08aca89",
-      "installedFile": {
-        "id": 2918052,
-        "displayName": "ICBM - Classic 1.12.2-4.0.1b75-UNSTABLE build 75",
-        "fileName": "ICBM-classic-1.12.2-4.0.1b75.jar",
-        "fileDate": "2020-04-01T04:01:51.513Z",
-        "fileLength": 6698184,
-        "releaseType": 3,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2918/52/ICBM-classic-1.12.2-4.0.1b75.jar",
-        "isAlternate": false,
-        "alternateFileId": 2918053,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1391986333,
-            "type": 0
-          },
-          {
-            "foldername": "icbm",
-            "fingerprint": 1027223967,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2658302254,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 711266746,
-            "type": 0
-          },
-          {
-            "foldername": "icbm_logo.png",
-            "fingerprint": 3463476181,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2299889495,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "ICBM-classic-1.12.2-4.0.1b75.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2020-08-15T10:07:15.4822605Z",
       "dateUpdated": "2020-08-15T10:07:15.5065348Z",
       "dateLastUpdateAttempted": "2020-08-15T10:07:15.5065348Z",
